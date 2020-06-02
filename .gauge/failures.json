@@ -1,0 +1,11 @@
+{
+	"Args": [
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console"
+	],
+	"FailedItems": [
+		"specs\\URL\u0026Title.spec:4"
+	]
+}
