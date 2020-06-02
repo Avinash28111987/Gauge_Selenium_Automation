@@ -775,3 +775,11 @@
 02-06-2020 07:25:37.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Validate the current URL and title" parameterizedStepValue:"Validate the current URL and title" > > 
 02-06-2020 07:37:08.520 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter text in a textbox and get it" > 
 02-06-2020 07:37:08.520 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter text in a textbox and get it" parameterizedStepValue:"Enter text in a textbox and get it" > > 
+02-06-2020 16:30:41.182 [Gauge] [INFO] Watching directory: C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\specs
+02-06-2020 16:30:41.183 [Gauge] [DEBUG] Found 2 files
+02-06-2020 16:30:41.758 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+02-06-2020 16:30:41.769 [Gauge] [INFO] Initializing specs cache with 2 specs
+02-06-2020 16:30:41.769 [Gauge] [DEBUG] Adding specs from C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\specs\URL&Title.spec
+02-06-2020 16:30:41.769 [Gauge] [DEBUG] Adding specs from C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\specs\ValidateTextbox.spec
+02-06-2020 16:30:41.769 [Gauge] [INFO] Initializing steps cache with 2 steps
+02-06-2020 16:30:41.769 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56200

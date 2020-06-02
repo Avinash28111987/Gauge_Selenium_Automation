@@ -2017,3 +2017,227 @@ Error : exit status 1
 01-06-2020 09:37:43.490 [Gauge] [INFO] 
 Total time taken: 51.352s
 01-06-2020 09:37:43.532 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+02-06-2020 10:34:34.421 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\.gauge\screenshots
+02-06-2020 10:34:34.824 [Gauge] [DEBUG] Plugin java is already installed.
+02-06-2020 10:34:34.829 [Gauge] [DEBUG] Plugin html-report is already installed.
+02-06-2020 10:34:34.975 [Gauge] [INFO] Installing required plugins.
+02-06-2020 10:34:34.975 [Gauge] [DEBUG] Installing plugin 'screenshot'
+02-06-2020 10:34:34.975 [Gauge] [DEBUG] Gathering metadata for screenshot
+02-06-2020 10:34:35.000 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:34:39.439 [Gauge] [DEBUG] Downloading https://github.com/getgauge/gauge_screenshot/releases/download/v0.0.1/screenshot-0.0.1-windows.x86_64.zip
+02-06-2020 10:34:39.563 [Gauge] [DEBUG] Checking updates...
+02-06-2020 10:34:39.568 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:34:39.812 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:34:39.959 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:34:40.162 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:34:42.783 [Gauge] [DEBUG] Installing plugin screenshot 0.0.1
+02-06-2020 10:34:42.796 [Gauge] [DEBUG] mkdir C:\Program Files\Gauge\bin\plugins\screenshot: Access is denied.
+02-06-2020 10:34:42.845 [Gauge] [DEBUG] Parsing started.
+02-06-2020 10:34:42.845 [Gauge] [DEBUG] Started concepts parsing.
+02-06-2020 10:34:43.040 [Gauge] [DEBUG] 0 concepts parsing completed.
+02-06-2020 10:34:43.253 [Gauge] [DEBUG] Started specifications parsing.
+02-06-2020 10:34:43.258 [Gauge] [DEBUG] 2 specifications parsing completed.
+02-06-2020 10:34:43.259 [Gauge] [DEBUG] Parsing completed.
+02-06-2020 10:35:13.500 [Gauge] [CRITICAL] Failed to start gauge API: Timed out connecting to java
+02-06-2020 10:36:03.758 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\.gauge\screenshots
+02-06-2020 10:36:03.850 [Gauge] [DEBUG] Plugin html-report is already installed.
+02-06-2020 10:36:03.852 [Gauge] [DEBUG] Plugin java is already installed.
+02-06-2020 10:36:03.853 [Gauge] [INFO] Installing required plugins.
+02-06-2020 10:36:03.853 [Gauge] [DEBUG] Installing plugin 'screenshot'
+02-06-2020 10:36:03.853 [Gauge] [DEBUG] Gathering metadata for screenshot
+02-06-2020 10:36:03.862 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:36:04.303 [Gauge] [DEBUG] Downloading https://github.com/getgauge/gauge_screenshot/releases/download/v0.0.1/screenshot-0.0.1-windows.x86_64.zip
+02-06-2020 10:36:04.662 [Gauge] [DEBUG] Checking updates...
+02-06-2020 10:36:04.673 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:36:04.740 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:36:04.799 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:36:05.150 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 10:36:07.211 [Gauge] [DEBUG] Installing plugin screenshot 0.0.1
+02-06-2020 10:36:07.224 [Gauge] [DEBUG] mkdir C:\Program Files\Gauge\bin\plugins\screenshot: Access is denied.
+02-06-2020 10:36:07.224 [Gauge] [DEBUG] Parsing started.
+02-06-2020 10:36:07.224 [Gauge] [DEBUG] Started concepts parsing.
+02-06-2020 10:36:07.244 [Gauge] [DEBUG] 0 concepts parsing completed.
+02-06-2020 10:36:07.246 [Gauge] [DEBUG] Started specifications parsing.
+02-06-2020 10:36:07.248 [Gauge] [DEBUG] 2 specifications parsing completed.
+02-06-2020 10:36:07.249 [Gauge] [DEBUG] Parsing completed.
+02-06-2020 10:36:32.999 [java] [DEBUG] Scanning packages for steps
+02-06-2020 10:36:33.003 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoStartupPage' and 'org.example.StepImplementation.gotoStartupPage'
+02-06-2020 10:36:33.003 [java] [DEBUG] Found Go to Automation Startup Page in current project scope.
+02-06-2020 10:36:33.003 [java] [DEBUG] Comparing 'org.example.StepImplementation.validateURLandTitle' and 'org.example.StepImplementation.validateURLandTitle'
+02-06-2020 10:36:33.003 [java] [DEBUG] Found Validate the current URL and title in current project scope.
+02-06-2020 10:36:33.003 [java] [DEBUG] Comparing 'org.example.StepImplementation.validateText' and 'org.example.StepImplementation.validateText'
+02-06-2020 10:36:33.003 [java] [DEBUG] Found Enter text in a textbox and get it in current project scope.
+02-06-2020 10:36:33.006 [java] [DEBUG] Scanning packages for hooks
+02-06-2020 10:36:33.019 [java] [DEBUG] Scanned steps: 
+02-06-2020 10:36:33.019 [java] [DEBUG] 	Go to Automation Startup Page : public void gotoStartupPage()
+02-06-2020 10:36:33.023 [java] [DEBUG] 	Enter text in a textbox and get it : public void validateText()
+02-06-2020 10:36:33.024 [java] [DEBUG] 	Validate the current URL and title : public void validateURLandTitle()
+02-06-2020 10:36:37.355 [Gauge] [CRITICAL] Failed to start gauge API: Timed out connecting to java
+02-06-2020 16:35:45.026 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\.gauge\screenshots
+02-06-2020 16:35:50.317 [Gauge] [DEBUG] Plugin java is already installed.
+02-06-2020 16:35:50.380 [Gauge] [DEBUG] Plugin html-report is already installed.
+02-06-2020 16:35:50.754 [Gauge] [INFO] Installing required plugins.
+02-06-2020 16:35:50.754 [Gauge] [DEBUG] Installing plugin 'screenshot'
+02-06-2020 16:35:50.754 [Gauge] [DEBUG] Gathering metadata for screenshot
+02-06-2020 16:35:50.915 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:35:57.107 [Gauge] [DEBUG] Checking updates...
+02-06-2020 16:35:57.118 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:35:57.277 [Gauge] [DEBUG] Downloading https://github.com/getgauge/gauge_screenshot/releases/download/v0.0.1/screenshot-0.0.1-windows.x86_64.zip
+02-06-2020 16:35:57.291 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:35:57.749 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:35:58.016 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:36:19.463 [Gauge] [DEBUG] Installing plugin screenshot 0.0.1
+02-06-2020 16:36:19.620 [Gauge] [DEBUG] mkdir C:\Program Files\Gauge\bin\plugins\screenshot: Access is denied.
+02-06-2020 16:36:19.632 [Gauge] [DEBUG] Parsing started.
+02-06-2020 16:36:19.633 [Gauge] [DEBUG] Started concepts parsing.
+02-06-2020 16:36:19.640 [Gauge] [DEBUG] 0 concepts parsing completed.
+02-06-2020 16:36:19.671 [Gauge] [DEBUG] Started specifications parsing.
+02-06-2020 16:36:19.724 [Gauge] [DEBUG] 2 specifications parsing completed.
+02-06-2020 16:36:19.803 [Gauge] [DEBUG] Parsing completed.
+02-06-2020 16:36:50.302 [Gauge] [CRITICAL] Failed to start gauge API: Timed out connecting to java
+02-06-2020 16:37:20.957 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\.gauge\screenshots
+02-06-2020 16:37:21.614 [Gauge] [DEBUG] Plugin java is already installed.
+02-06-2020 16:37:21.619 [Gauge] [DEBUG] Plugin html-report is already installed.
+02-06-2020 16:37:22.205 [Gauge] [INFO] Installing required plugins.
+02-06-2020 16:37:22.205 [Gauge] [DEBUG] Installing plugin 'screenshot'
+02-06-2020 16:37:22.205 [Gauge] [DEBUG] Gathering metadata for screenshot
+02-06-2020 16:37:22.288 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:37:27.170 [Gauge] [DEBUG] Checking updates...
+02-06-2020 16:37:27.172 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:37:27.247 [Gauge] [DEBUG] Downloading https://github.com/getgauge/gauge_screenshot/releases/download/v0.0.1/screenshot-0.0.1-windows.x86_64.zip
+02-06-2020 16:37:27.503 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:37:27.879 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:37:28.489 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:37:38.503 [Gauge] [DEBUG] Installing plugin screenshot 0.0.1
+02-06-2020 16:37:38.507 [Gauge] [DEBUG] mkdir C:\Program Files\Gauge\bin\plugins\screenshot: Access is denied.
+02-06-2020 16:37:38.523 [Gauge] [DEBUG] Parsing started.
+02-06-2020 16:37:38.524 [Gauge] [DEBUG] Started concepts parsing.
+02-06-2020 16:37:38.530 [Gauge] [DEBUG] 0 concepts parsing completed.
+02-06-2020 16:37:38.576 [Gauge] [DEBUG] Started specifications parsing.
+02-06-2020 16:37:38.577 [Gauge] [DEBUG] 2 specifications parsing completed.
+02-06-2020 16:37:38.605 [Gauge] [DEBUG] Parsing completed.
+02-06-2020 16:38:06.274 [java] [DEBUG] Scanning packages for steps
+02-06-2020 16:38:08.503 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoStartupPage' and 'org.example.StepImplementation.gotoStartupPage'
+02-06-2020 16:38:08.506 [java] [DEBUG] Found Go to Automation Startup Page in current project scope.
+02-06-2020 16:38:08.507 [java] [DEBUG] Comparing 'org.example.StepImplementation.validateURLandTitle' and 'org.example.StepImplementation.validateURLandTitle'
+02-06-2020 16:38:08.532 [java] [DEBUG] Found Validate the current URL and title in current project scope.
+02-06-2020 16:38:08.533 [java] [DEBUG] Comparing 'org.example.StepImplementation.validateText' and 'org.example.StepImplementation.validateText'
+02-06-2020 16:38:08.533 [java] [DEBUG] Found Enter text in a textbox and get it in current project scope.
+02-06-2020 16:38:08.533 [java] [DEBUG] Scanning packages for hooks
+02-06-2020 16:38:08.777 [java] [DEBUG] Scanned steps: 
+02-06-2020 16:38:08.777 [java] [DEBUG] 	Go to Automation Startup Page : public void gotoStartupPage()
+02-06-2020 16:38:08.777 [java] [DEBUG] 	Enter text in a textbox and get it : public void validateText()
+02-06-2020 16:38:08.778 [java] [DEBUG] 	Validate the current URL and title : public void validateURLandTitle()
+02-06-2020 16:38:08.834 [Gauge] [CRITICAL] Failed to start gauge API: Timed out connecting to java
+02-06-2020 16:38:26.908 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\.gauge\screenshots
+02-06-2020 16:38:26.913 [Gauge] [DEBUG] Plugin java is already installed.
+02-06-2020 16:38:26.914 [Gauge] [DEBUG] Plugin html-report is already installed.
+02-06-2020 16:38:26.915 [Gauge] [INFO] Installing required plugins.
+02-06-2020 16:38:26.915 [Gauge] [DEBUG] Installing plugin 'screenshot'
+02-06-2020 16:38:26.915 [Gauge] [DEBUG] Gathering metadata for screenshot
+02-06-2020 16:38:26.918 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:38:27.382 [Gauge] [DEBUG] Downloading https://github.com/getgauge/gauge_screenshot/releases/download/v0.0.1/screenshot-0.0.1-windows.x86_64.zip
+02-06-2020 16:38:27.389 [Gauge] [DEBUG] Checking updates...
+02-06-2020 16:38:27.431 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:38:27.655 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:38:27.742 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:38:27.869 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:38:31.199 [Gauge] [DEBUG] Installing plugin screenshot 0.0.1
+02-06-2020 16:38:31.209 [Gauge] [DEBUG] mkdir C:\Program Files\Gauge\bin\plugins\screenshot: Access is denied.
+02-06-2020 16:38:31.209 [Gauge] [DEBUG] Parsing started.
+02-06-2020 16:38:31.209 [Gauge] [DEBUG] Started concepts parsing.
+02-06-2020 16:38:31.217 [Gauge] [DEBUG] 0 concepts parsing completed.
+02-06-2020 16:38:31.218 [Gauge] [DEBUG] Started specifications parsing.
+02-06-2020 16:38:31.219 [Gauge] [DEBUG] 2 specifications parsing completed.
+02-06-2020 16:38:31.219 [Gauge] [DEBUG] Parsing completed.
+02-06-2020 16:38:50.039 [java] [DEBUG] Scanning packages for steps
+02-06-2020 16:38:50.212 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoStartupPage' and 'org.example.StepImplementation.gotoStartupPage'
+02-06-2020 16:38:50.212 [java] [DEBUG] Found Go to Automation Startup Page in current project scope.
+02-06-2020 16:38:50.212 [java] [DEBUG] Comparing 'org.example.StepImplementation.validateURLandTitle' and 'org.example.StepImplementation.validateURLandTitle'
+02-06-2020 16:38:50.212 [java] [DEBUG] Found Validate the current URL and title in current project scope.
+02-06-2020 16:38:50.212 [java] [DEBUG] Comparing 'org.example.StepImplementation.validateText' and 'org.example.StepImplementation.validateText'
+02-06-2020 16:38:50.212 [java] [DEBUG] Found Enter text in a textbox and get it in current project scope.
+02-06-2020 16:38:50.212 [java] [DEBUG] Scanning packages for hooks
+02-06-2020 16:38:50.246 [java] [DEBUG] Scanned steps: 
+02-06-2020 16:38:50.246 [java] [DEBUG] 	Go to Automation Startup Page : public void gotoStartupPage()
+02-06-2020 16:38:50.246 [java] [DEBUG] 	Enter text in a textbox and get it : public void validateText()
+02-06-2020 16:38:50.246 [java] [DEBUG] 	Validate the current URL and title : public void validateURLandTitle()
+02-06-2020 16:38:53.046 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56858
+02-06-2020 16:38:54.024 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56858
+02-06-2020 16:38:54.097 [Gauge] [DEBUG] Validation started.
+02-06-2020 16:38:54.596 [Gauge] [DEBUG] Validation completed.
+02-06-2020 16:38:54.715 [Gauge] [DEBUG] Run started
+02-06-2020 16:38:54.726 [Gauge] [DEBUG] Starting Html Report plugin
+02-06-2020 16:39:13.607 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56882
+02-06-2020 16:39:13.701 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56882
+02-06-2020 16:39:13.986 [Gauge] [DEBUG] Initialising suite data store.
+02-06-2020 16:39:47.556 [java] [DEBUG] Executing 'Go to Automation Startup Page' using 'class org.example.StepImplementation.gotoStartupPage
+02-06-2020 16:39:54.554 [java] [DEBUG] Executing 'Validate the current URL and title' using 'class org.example.StepImplementation.validateURLandTitle
+02-06-2020 16:40:14.897 [java] [DEBUG] Executing 'Go to Automation Startup Page' using 'class org.example.StepImplementation.gotoStartupPage
+02-06-2020 16:40:19.924 [java] [DEBUG] Executing 'Enter text in a textbox and get it' using 'class org.example.StepImplementation.validateText
+02-06-2020 16:40:24.313 [html-report] [DEBUG] Transformed SuiteResult to report structure
+02-06-2020 16:40:34.888 [html-report] [INFO] Successfully generated html-report to => C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\reports\html-report\index.html
+02-06-2020 16:40:34.889 [html-report] [DEBUG] Done generating HTML report using theme from C:\Program Files\Gauge\bin\plugins\html-report\4.0.11\themes\default
+02-06-2020 16:40:34.889 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+02-06-2020 16:40:40.244 [Gauge] [WARNING] Killing runner with PID:19972 forcefully
+02-06-2020 16:40:40.244 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+02-06-2020 16:40:40.244 [Gauge] [INFO] Scenarios:	2 executed	2 passed	0 failed	0 skipped
+02-06-2020 16:40:40.308 [Gauge] [INFO] 
+Total time taken: 1m29.187s
+02-06-2020 16:40:40.605 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+02-06-2020 16:47:28.087 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\.gauge\screenshots
+02-06-2020 16:47:28.696 [Gauge] [DEBUG] Plugin java is already installed.
+02-06-2020 16:47:28.699 [Gauge] [DEBUG] Plugin html-report is already installed.
+02-06-2020 16:47:28.804 [Gauge] [INFO] Installing required plugins.
+02-06-2020 16:47:28.804 [Gauge] [DEBUG] Installing plugin 'screenshot'
+02-06-2020 16:47:28.804 [Gauge] [DEBUG] Gathering metadata for screenshot
+02-06-2020 16:47:28.838 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:47:32.696 [Gauge] [DEBUG] Downloading https://github.com/getgauge/gauge_screenshot/releases/download/v0.0.1/screenshot-0.0.1-windows.x86_64.zip
+02-06-2020 16:47:33.403 [Gauge] [DEBUG] Checking updates...
+02-06-2020 16:47:33.420 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:47:33.843 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:47:34.663 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:47:34.957 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,spectacle,xml-report&o=windows&a=amd64
+02-06-2020 16:47:50.780 [Gauge] [DEBUG] Installing plugin screenshot 0.0.1
+02-06-2020 16:47:50.785 [Gauge] [DEBUG] mkdir C:\Program Files\Gauge\bin\plugins\screenshot: Access is denied.
+02-06-2020 16:47:50.798 [Gauge] [DEBUG] Parsing started.
+02-06-2020 16:47:50.798 [Gauge] [DEBUG] Started concepts parsing.
+02-06-2020 16:47:50.803 [Gauge] [DEBUG] 0 concepts parsing completed.
+02-06-2020 16:47:50.837 [Gauge] [DEBUG] Started specifications parsing.
+02-06-2020 16:47:50.893 [Gauge] [DEBUG] 2 specifications parsing completed.
+02-06-2020 16:47:50.914 [Gauge] [DEBUG] Parsing completed.
+02-06-2020 16:48:07.655 [java] [DEBUG] Scanning packages for steps
+02-06-2020 16:48:07.655 [java] [DEBUG] Comparing 'org.example.StepImplementation.gotoStartupPage' and 'org.example.StepImplementation.gotoStartupPage'
+02-06-2020 16:48:07.655 [java] [DEBUG] Found Go to Automation Startup Page in current project scope.
+02-06-2020 16:48:07.655 [java] [DEBUG] Comparing 'org.example.StepImplementation.validateURLandTitle' and 'org.example.StepImplementation.validateURLandTitle'
+02-06-2020 16:48:07.656 [java] [DEBUG] Found Validate the current URL and title in current project scope.
+02-06-2020 16:48:07.656 [java] [DEBUG] Comparing 'org.example.StepImplementation.validateText' and 'org.example.StepImplementation.validateText'
+02-06-2020 16:48:07.656 [java] [DEBUG] Found Enter text in a textbox and get it in current project scope.
+02-06-2020 16:48:07.656 [java] [DEBUG] Scanning packages for hooks
+02-06-2020 16:48:07.656 [java] [DEBUG] Scanned steps: 
+02-06-2020 16:48:07.656 [java] [DEBUG] 	Go to Automation Startup Page : public void gotoStartupPage()
+02-06-2020 16:48:07.656 [java] [DEBUG] 	Enter text in a textbox and get it : public void validateText()
+02-06-2020 16:48:07.656 [java] [DEBUG] 	Validate the current URL and title : public void validateURLandTitle()
+02-06-2020 16:48:11.035 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57491
+02-06-2020 16:48:11.623 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57491
+02-06-2020 16:48:11.703 [Gauge] [DEBUG] Validation started.
+02-06-2020 16:48:12.652 [Gauge] [DEBUG] Validation completed.
+02-06-2020 16:48:12.767 [Gauge] [DEBUG] Run started
+02-06-2020 16:48:12.769 [Gauge] [DEBUG] Starting Html Report plugin
+02-06-2020 16:48:13.360 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57498
+02-06-2020 16:48:13.361 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 57498
+02-06-2020 16:48:13.385 [Gauge] [DEBUG] Initialising suite data store.
+02-06-2020 16:48:29.386 [java] [DEBUG] Executing 'Go to Automation Startup Page' using 'class org.example.StepImplementation.gotoStartupPage
+02-06-2020 16:48:34.673 [java] [DEBUG] Executing 'Validate the current URL and title' using 'class org.example.StepImplementation.validateURLandTitle
+02-06-2020 16:48:45.220 [java] [DEBUG] Executing 'Go to Automation Startup Page' using 'class org.example.StepImplementation.gotoStartupPage
+02-06-2020 16:48:50.623 [java] [DEBUG] Executing 'Enter text in a textbox and get it' using 'class org.example.StepImplementation.validateText
+02-06-2020 16:48:52.756 [html-report] [DEBUG] Transformed SuiteResult to report structure
+02-06-2020 16:48:54.199 [html-report] [INFO] Successfully generated html-report to => C:\Users\Niranjan\IdeaProjects\Gauge_test_sel\reports\html-report\index.html
+02-06-2020 16:48:54.199 [html-report] [DEBUG] Done generating HTML report using theme from C:\Program Files\Gauge\bin\plugins\html-report\4.0.11\themes\default
+02-06-2020 16:48:54.199 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+02-06-2020 16:48:57.286 [Gauge] [DEBUG] Runner with PID:22904 has exited
+02-06-2020 16:48:57.286 [Gauge] [INFO] Specifications:	2 executed	2 passed	0 failed	0 skipped
+02-06-2020 16:48:57.286 [Gauge] [INFO] Scenarios:	2 executed	2 passed	0 failed	0 skipped
+02-06-2020 16:48:58.053 [Gauge] [INFO] 
+Total time taken: 39.821s
+02-06-2020 16:48:58.239 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
