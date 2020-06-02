@@ -44,5 +44,6 @@ public class StepImplementation extends Driver
         String text = driver.findElement(By.id("autocomplete")).getAttribute("value");
         Assert.assertEquals(text, input_text, "text matched");
         System.out.println(text);
+        System.out.println("successfully integrated with github");
     }
 }
